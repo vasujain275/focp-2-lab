@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2016105-83cd-4550-9f2d-dd2f9eb5590b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practical01/Question01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practical01/Question07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practical01/Question07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practical02/Question07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practical02/Question07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Practical02/Question02.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -42,6 +44,7 @@
     "Application.Question03.executor": "Run",
     "Application.Question04.executor": "Run",
     "Application.Question06.executor": "Run",
+    "Application.Question07.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -73,7 +76,7 @@
       <updated>1705635062156</updated>
       <workItem from="1705635063239" duration="17000" />
       <workItem from="1706541356110" duration="968000" />
-      <workItem from="1706605443698" duration="836000" />
+      <workItem from="1706605443698" duration="1685000" />
     </task>
     <servers />
   </component>
