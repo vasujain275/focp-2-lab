@@ -8,20 +8,19 @@ DoD 3: The program should print “Vowel” if the entered character is a vowel 
 “Consonant” if the entered character is a consonant.
 */
 package Practical02;
-
+import java.util.Scanner;
 public class Question02 {
     public static void main(String[] args) {
-        char character = 'Q';
-        if (character >= 'a' && character <= 'z' || character >= 'A' && character <= 'Z') {
-            if (character == 'a' || character == 'e' || character == 'i' || character == 'o' || character == 'u'
-                    || character == 'A' || character == 'E' || character == 'I' || character == 'O'
-                    || character == 'U') {
-                System.out.println("Vowel");
-            } else {
-                System.out.println("Consonant");
+        Scanner input = new Scanner(System.in);
+        System.out.print("Enter a character: ");
+        char ch = input.next().charAt(0);
+        if (ch >= 'a' && ch <= 'z' || ch >= 'A' && ch <= 'Z') {
+            switch (ch) {
+                case 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U' -> System.out.println("Vowel");
+                default -> System.out.println("Consonant");
             }
         } else {
-            System.out.println("Error");
+            System.out.println("Error: Invalid input");
         }
     }
 }
