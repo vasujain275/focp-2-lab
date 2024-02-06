@@ -3,6 +3,7 @@
 //6
 //Sample Output 1 :
 //1 3 5 6 4 2
+
 package Practical03;
 
 import java.util.Scanner;
@@ -12,14 +13,14 @@ public class Question05 {
         System.out.println("Enter the size of the array:");
         int size = input.nextInt();
         int[] array = new int[size];
-        int start = 1;
-        int end = size;
-        for (int i = 0; i < array.length; i++) {
-            if (i % 2 == 0) {
-                array[i] = start;
+        int start = 0;
+        int end = size - 1;
+        for (int i = 1; i <= size; i++) {
+            if (i % 2 != 0) {
+                array[start] = i;
                 start++;
             } else {
-                array[i] = end;
+                array[end] = i;
                 end--;
             }
         }
