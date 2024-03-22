@@ -1,4 +1,4 @@
-// Using inheritance, one class can acquire the properties of others. Consider the following Animal class:
+package Practical05.Question04;// Using inheritance, one class can acquire the properties of others. Consider the following Animal class:
 //
 //class Animal{
 //    void walk(){

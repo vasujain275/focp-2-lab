@@ -1,5 +1,5 @@
 // Create a class named 'Vehicle' with a method to print "This is a vehicle". Now create three other classes named 'Car', 'Truck', and 'Motorcycle' inheriting the 'Vehicle' class, each having a method to print "This is a car", "This is a truck", and "This is a motorcycle" respectively. Create an object of the 'Car' class and call the methods of both the 'Vehicle' and 'Car' classes using this object
-
+package Practical05.Question01;
 
 class Vehicle {
     void printVehicle() {

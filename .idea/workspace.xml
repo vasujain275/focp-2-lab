@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="c2016105-83cd-4550-9f2d-dd2f9eb5590b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practical04/Question05/requiredClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practical04/Question05/requiredClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practical05/Question01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practical05/Question01/Question01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practical05/Question02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practical05/Question02/Question02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practical05/Question03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practical05/Question03/Question03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practical05/Question04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practical05/Question04/Question04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practical05/Question05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practical05/Question05/Question05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practical05/Question06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practical05/Question06/Question06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +105,7 @@
       <workItem from="1711077355236" duration="1108000" />
       <workItem from="1711078472696" duration="864000" />
       <workItem from="1711079343328" duration="142000" />
-      <workItem from="1711079490975" duration="1070000" />
+      <workItem from="1711079490975" duration="2462000" />
     </task>
     <servers />
   </component>

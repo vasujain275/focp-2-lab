@@ -65,4 +65,4 @@ class Point {
         System.out.printf("Distance: %7.2f\n", distance());
     }
 }
-// Main ApplicationPath: src/Practical04/Question05/Main.java
+// Main ApplicationPath: src/Practical04/Practical05.Question05.Question05/Main.java
