@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2016105-83cd-4550-9f2d-dd2f9eb5590b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practical04/Question05/requiredClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practical04/Question05/requiredClasses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,34 +37,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question07.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/vasu/personal/inventory-manager&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Question01.executor": "Run",
+    "Application.Question02.executor": "Run",
+    "Application.Question03.executor": "Run",
+    "Application.Question04.executor": "Run",
+    "Application.Question05.executor": "Run",
+    "Application.Question06.executor": "Run",
+    "Application.Question07.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/vasu/personal/inventory-manager",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-78a6f59c" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -101,7 +103,13 @@
       <workItem from="1711079343328" duration="142000" />
       <workItem from="1711079490975" duration="2820000" />
       <workItem from="1711117097667" duration="16000" />
-      <workItem from="1712051731923" duration="2206000" />
+      <workItem from="1712051731923" duration="2892000" />
+      <workItem from="1712054690966" duration="96000" />
+      <workItem from="1712287119634" duration="2695000" />
+      <workItem from="1712572279861" duration="12000" />
+      <workItem from="1712572789785" duration="6000" />
+      <workItem from="1712592931733" duration="335000" />
+      <workItem from="1712593425415" duration="612000" />
     </task>
     <servers />
   </component>
