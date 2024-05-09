@@ -8,8 +8,8 @@ import java.io.IOException;
 
 public class Question01 {
     public static void main(String[] args) {
-        String fileName = "VasuJain23CSU337.txt";
-        String content = "My Roll No. is 23CSU337 and I am Vasu Jain.";
+        String fileName = "Vansh23CSU330.txt";
+        String content = "My Roll No. is 23CSU330 and I am Vansh.";
 
         // Write to file
         writeFile(fileName, content);
@@ -19,7 +19,7 @@ public class Question01 {
         System.out.println("File content: " + fileContent);
 
         // Update file
-        String updatedContent = fileContent.replace("23CSU337", "23CSU347");
+        String updatedContent = fileContent.replace("23CSU330", "23CSU347");
         updateFile(fileName, updatedContent);
 
         // Read updated content
